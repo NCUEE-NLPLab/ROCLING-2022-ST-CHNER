@@ -1,0 +1,8 @@
+processed 120 tokens with 9 phrases; found: 9 phrases; correct: 9.
+accuracy: 100.00%; (non-O)
+accuracy: 100.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+             CORP: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+               CW: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              GRP: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+              LOC: precision: 100.00%; recall: 100.00%; FB1: 100.00  5
+             PROD: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
