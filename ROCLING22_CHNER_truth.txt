@@ -116259,13 +116259,13 @@
 被 O
 稱 O
 作 O
-異 T-TIME
+異 B-TIME
 相 I-TIME
 睡 I-TIME
 眠 I-TIME
 或 O
 者 O
-去 T-TIME
+去 B-TIME
 同 I-TIME
 步 I-TIME
 睡 I-TIME
@@ -116330,7 +116330,7 @@
 睡 I-TIME
 眠 I-TIME
 和 O
-非 T-TIME
+非 B-TIME
 Ｒ I-TIME
 Ｅ I-TIME
 Ｍ I-TIME
