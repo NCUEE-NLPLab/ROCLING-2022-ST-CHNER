@@ -1,4 +1,4 @@
-# ROCLING 2022 Shared Task on Chinese Healthcare Named Entity Recognition
+# ROCLING 2022 Shared Task on Chinese Healthcare Named Entity Recognition (CHNER)
 The goal of this shared task is to develop and evaluate the capability of a Chinese healthcare NER recognizer. A sentence containing at least one named entity is given as the input. The recognizer should predict the named entity’s boundaries and category for each given sentence. We use the common BIO (Beginning, Inside, and Outside) format for the NER task. The B-prefix before a tag indicates that the character is the beginning of a named entity and the I-prefix before a tag indicates that the character is inside a named entity. An O tag indicates that a character belongs to no named entity. We use the same entity types defined in the Chinese HealthNER Corpus (Lee and Lu, 2021). A total of 10 types are described for this Chinese healthcare NER task, and some examples are provided in Table 1. 
 
 |  Entity Type (Tag)   | Description  |   Examples  |
@@ -74,7 +74,7 @@ The policy of this shared task is an open test. Participating systems are allowe
 |  7  |  **SCU-NLP** (Chiou et al., 2022)  |  64.72  |  77.92  |  70.71  |
 
 # Citation
-Please cite the following papers :
+Please cite the following papers for ROCLING 2022 CHNER Datasets::
 
 Lung-Hao Lee, Chao-Yi Chen, Liang-Chih Yu, and Yuen-Hsien Tseng. 2022. Overview of the ROCLING 2022 shared task for Chinese healthcare named entity recognition. In *Proceedings of the 34th Conference on Computational Linguistics and Speech Processing*, pp. 363-368.
 
