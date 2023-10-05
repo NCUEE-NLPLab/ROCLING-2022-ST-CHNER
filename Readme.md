@@ -74,7 +74,7 @@ The policy of this shared task is an open test. Participating systems are allowe
 |  7  |  **SCU-NLP** (Chiou et al., 2022)  |  64.72  |  77.92  |  70.71  |
 
 # Citation
-Please cite the following papers for ROCLING 2022 CHNER Datasets::
+Please cite the following papers for ROCLING 2022 CHNER Datasets:
 
 Lung-Hao Lee, Chao-Yi Chen, Liang-Chih Yu, and Yuen-Hsien Tseng. 2022. Overview of the ROCLING 2022 shared task for Chinese healthcare named entity recognition. In *Proceedings of the 34th Conference on Computational Linguistics and Speech Processing*, pp. 363-368.
 
