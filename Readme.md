@@ -50,9 +50,9 @@ Table 2 shows detailed statistics of mutually exclusive training and test sets. 
 In addition, sentences in the training set may contain named entities or not, each with an average of 49.31 characters and 2.23 named entities. However, all sentences in the test set contained at least one named entity, each with an average of 36.85 characters and 4.17 named entities. In summary, the average sentence length is short in the test set, but named entity density is relatively high. 
 
 * Chinese HealthNER Corpus (train/dev)  
-<a href="https://github.com/NCUEE-NLPLab/Chinese-HealthNER-Corpus" target="_blank">https://github.com/NCUEE-NLPLab/Chinese-HealthNER-Corpus</a>
+<a href="https://github.com/NYCU-NLP/Chinese-HealthNER-Corpus" target="_blank">https://github.com/NYCU-NLP/Chinese-HealthNER-Corpus</a>
 * ROCLING-2022 Shared Task (test, this repository)  
-<a href="https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER" target="_blank">https://github.com/NCUEE-NLPLab/ROCLING-2022-ST-CHNER</a> 
+<a href="https://github.com/NYCU-NLP/ROCLING-2022-ST-CHNER" target="_blank">https://github.com/NYCU-NLP/ROCLING-2022-ST-CHNER</a> 
 
 
 # Evaluation
